@@ -1,2 +1,2 @@
 # mCPU
-仿真CPU
+使用verilog语言编写的仿真CPU
